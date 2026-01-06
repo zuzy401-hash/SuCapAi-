@@ -1,0 +1,8 @@
+{
+  "name": "SuCapAi",
+  "description": "A high-end community platform for visual content creators featuring tiered memberships, AI-powered assistance with voice chat, cloud file sharing, and advanced creation tools powered by Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
